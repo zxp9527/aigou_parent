@@ -13,4 +13,3 @@ public class ZuulGatewayApplication_9527 {
         SpringApplication.run(ZuulGatewayApplication_9527.class);
     }
 }
-
